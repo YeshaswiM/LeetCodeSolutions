@@ -1,5 +1,5 @@
- from typing import List
- 
+from typing import List
+
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         if not len(strs):
