@@ -16,17 +16,17 @@ class Solution:
             if l == "0":
                 count_u += 1
             if l == "1" and p == "(":
-                count_ol+=1
+                count_ol += 1
             elif l == "1" and p == ")":
                 if count_ol > 0:
                     count_ol -= 1
                 else:
-                    if count_u == 0: 
+                    if count_u == 0:
                         return False
                     else:
                         count_u -= 1
         # if no locked and unlocked are even, valid string
-        if count_ol == 0 and count_u % 2 == 0: 
+        if count_ol == 0 and count_u % 2 == 0:
             return True
         # Scan string rom right to balance out open locked parantheses
         countright_ol_bal = 0
@@ -37,15 +37,14 @@ class Solution:
             elif s[i] == "(":
                 countright_ol_bal += 1
                 count_ol -= 1
-            elif s[i]==")":
+            elif s[i] == ")":
                 countright_ol_bal -= 1
             if countright_ol_bal > 0:
                 return False
             if count_u == 0 and count_ol == 0:
                 break
         # If we still have open locked parantheses, invalid string
-        if count_ol > 0: 
+        if count_ol > 0:
             return False
         else:
             return True
-    
