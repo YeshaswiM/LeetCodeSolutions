@@ -1,3 +1,5 @@
+from typing import List
+
 class Solution:
     def isPrefixAndSuffix(self, str1: str, str2: str) -> bool:
         if str2.startswith(str1) and str2.endswith(str1): 
