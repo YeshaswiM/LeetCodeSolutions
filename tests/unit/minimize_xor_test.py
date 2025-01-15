@@ -1,5 +1,6 @@
 import unittest
-import python_solutions
+import sys
+sys.path.append("..") 
 from python_solutions.minimize_xor import Solution
 
 class TestCase(unittest.TestCase):
