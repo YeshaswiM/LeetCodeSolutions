@@ -1,7 +1,5 @@
 import unittest
-import sys
-sys.path.append("..") 
-from python_solutions.minimize_xor import Solution
+from minimize_xor_dupe import Solution
 
 class TestCase(unittest.TestCase):
     def test_first(self):
