@@ -1,5 +1,5 @@
 import unittest
-from minimize_xor_dupe import Solution
+from .minimize_xor_dupe import Solution
 
 class TestCase(unittest.TestCase):
     def test_first(self):
