@@ -1,4 +1,5 @@
 import unittest
+import python_solutions
 from python_solutions.minimize_xor import Solution
 
 class TestCase(unittest.TestCase):
