@@ -16,3 +16,4 @@ class Solution:
                     output ^= l
             else:
                 output = 0
+        return output
