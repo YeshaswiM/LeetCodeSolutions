@@ -8,6 +8,7 @@ Tracking all my solutions to Leetcode problems here
 |  #  | Title           |  Solution       |  Difficulty           | Time          | Space     | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python3](./Python/longest-common-prefix.py) | Easy | O(n**2) | O(m) |Beats 100% of the solutions
+704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python3](./Python/binary_search.py) | Easy | O(logn) | O(1) |
 1400 | [Construct K Palindrome Strings](https://leetcode.com/problems/construct-k-palindrome-strings) | [Python3](./Python/construct-k-palindrome-strings.py) | Medium | O(n) | O(m) |Beats 100% of the solutions
 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [Python3](./Python/check-if-a-parentheses-string-can-be-valid.py) | Medium | O(n) | O(1) |
 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Python3](./Python/counting-words-with-a-given-prefix.py) | Easy | | |
