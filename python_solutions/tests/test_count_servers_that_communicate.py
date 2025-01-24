@@ -9,7 +9,7 @@ class TestCase(unittest.TestCase):
         self.assertEqual(Solution().countServers([[1,0],[1,1]]), 3)
 
     def test_third(self):
-        self.assertEqual(Solution().countServers([[1,1,0,0],[0,0,1,0],[0,0,1,0],[0,0,0,1]]), 0)
+        self.assertEqual(Solution().countServers([[1,1,0,0],[0,0,1,0],[0,0,1,0],[0,0,0,1]]), 4)
 
 
 if __name__ == "__main__":
