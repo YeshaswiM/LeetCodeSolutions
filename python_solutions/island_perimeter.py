@@ -13,16 +13,16 @@ class Solution:
                     peri_add = 4
                     # If another land is on the left, subtract 1
                     if i > 0 and grid[i-1][j] == 1:
-                            perct -= 1
+                            peri_add -= 1
                     # If another land is on the right, subtract 1
                     if i < width and grid[i + 1][j] == 1:
-                            perct -= 1
+                            peri_add -= 1
                     # If another land is below, subtract 1
                     if j > 0 and grid[i][j - 1] == 1:
-                            perct -= 1
+                            peri_add -= 1
                     # If another land is above, subtract 1
                     if j < height and grid[i][j + 1] == 1:
-                            perct -= 1
+                            peri_add -= 1
                     perimeter += peri_add
         return perimeter
 
