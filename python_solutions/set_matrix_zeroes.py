@@ -21,3 +21,5 @@ class Solution:
             else:
                 for j in rows:
                         matrix[i][j] = 0
+        # Return for testing
+        return matrix
