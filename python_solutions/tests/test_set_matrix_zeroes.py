@@ -1,5 +1,5 @@
 import unittest
-from ..neighboring_bitwise_xor import Solution
+from ..set_matrix_zeroes import Solution
 
 class TestCase(unittest.TestCase):
     def test_first(self):
