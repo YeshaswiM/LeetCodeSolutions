@@ -19,5 +19,6 @@ Tracking all my solutions to Leetcode problems here
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | [Python3](./Python/bitwise_xor_of_all_pairings.py) | Medium | O(n) | O(1) |
 2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor) | [Python3](./Python/neighboring_bitwise_xor.py) | Medium | O(n) | O(1) |
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | [Python3](./Python/minimize-xor.py) | Medium | O(n) | O(1) |
+2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid) | [Python3](./Python/maximum_number_of_fish_in_a_grid.py) | Medium | O(m*n) | O(m*n) |
 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Python3](./Python/count-prefix-and-suffix-pairs-i.py) | Easy | | |
 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Python3](./Python/minimum-length-of-string-after-operations.py) | Medium |O(n) | O(1)|
