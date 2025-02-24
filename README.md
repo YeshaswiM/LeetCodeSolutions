@@ -8,6 +8,7 @@ Tracking all my solutions to Leetcode problems here
 |  #  | Title           |  Solution       |  Difficulty           | Time          | Space     | Note| 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |-----|
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python3](./python_solutions/longest-common-prefix.py) | Easy | O(n**2) | O(m) |Beats 100% of the solutions
+36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Python3](./python_solutions/valid_sudoku.py) | Medium | O(1) | O(1) |
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Python3](./python_solutions/set_matrix_zeroes.py) | Easy | O(n*m) | O(m+n) | 
 136 | [Single Number](https://leetcode.com/problems/single-number) | [Python3](./python_solutions/single_number.py) | Easy | O(n) | O(1) |
 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python3](./python_solutions/number_of_islands.py) | Medium | O(n*m) | O(n*m) |
