@@ -10,6 +10,7 @@ Tracking all my solutions to Leetcode problems here
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Python3](./Python/longest-common-prefix.py) | Easy | O(n**2) | O(m) |Beats 100% of the solutions
 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Python3](./Python/set_matrix_zeroes.py) | Easy | O(n*m) | O(m+n) | 
 136 | [Single Number](https://leetcode.com/problems/single-number) | [Python3](./Python/single_number.py) | Easy | O(n) | O(1) |
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | [Python3](./Python/number_of_islands.py) | Medium | O(n*m) | O(n*m) |
 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter) | [Python3](./Python/island_perimeter.py) | Easy | O(m*n) | O(1) |
 704 | [Binary Search](https://leetcode.com/problems/binary-search) | [Python3](./Python/binary_search.py) | Easy | O(logn) | O(1) |
 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge) | [Python3](./Python/find_the_town_judge.py) | Easy | O(logn) | O(n) |
