@@ -21,9 +21,10 @@ Tracking all my solutions to Leetcode problems here
 1800 | [Maximum Ascending Subarray Sum](https://leetcode.com/problems/maximum-ascending-subarray-sum) | [Python3](./python_solutions/maximum_ascending_subarray_sum.py) | Easy | O(n) | O(1) |
 2116 | [Check if a Parentheses String Can Be Valid](https://leetcode.com/problems/check-if-a-parentheses-string-can-be-valid) | [Python3](./python_solutions/check-if-a-parentheses-string-can-be-valid.py) | Medium | O(n) | O(1) |
 2185 | [Counting Words With a Given Prefix](https://leetcode.com/problems/counting-words-with-a-given-prefix) | [Python3](./python_solutions/counting-words-with-a-given-prefix.py) | Easy | | |
+2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks) | [Python3](./python_solutions/minimum_recolors_to_get_k_consecutive_black_blocks.py) | Easy | O(n) | O(1) |
 2425 | [Bitwise XOR of All Pairings](https://leetcode.com/problems/bitwise-xor-of-all-pairings) | [Python3](./python_solutions/bitwise_xor_of_all_pairings.py) | Medium | O(n) | O(1) |
-2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor) | [Python3](./python_solutions/neighboring_bitwise_xor.py) | Medium | O(n) | O(1) |
 2429 | [Minimize XOR](https://leetcode.com/problems/minimize-xor) | [Python3](./python_solutions/minimize-xor.py) | Medium | O(n) | O(1) |
 2658 | [Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid) | [Python3](./python_solutions/maximum_number_of_fish_in_a_grid.py) | Medium | O(m*n) | O(m*n) |
+2683 | [Neighboring Bitwise XOR](https://leetcode.com/problems/neighboring-bitwise-xor) | [Python3](./python_solutions/neighboring_bitwise_xor.py) | Medium | O(n) | O(1) |
 3042 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i) | [Python3](./python_solutions/count-prefix-and-suffix-pairs-i.py) | Easy | | |
 3223 | [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations) | [Python3](./python_solutions/minimum-length-of-string-after-operations.py) | Medium |O(n) | O(1)|
